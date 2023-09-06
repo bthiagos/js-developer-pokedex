@@ -1,3 +1,4 @@
+/* Estilos específicos para a Pokedex */
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
@@ -5,6 +6,9 @@
     padding: 0;
     list-style: none;
 }
+
+/* Restante dos estilos da Pokedex permanece inalterado. */
+
 
 .normal {
     background-color: #a6a877;

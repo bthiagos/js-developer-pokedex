@@ -1,3 +1,15 @@
+/**
+    * @description      : 
+    * @author           : Thiago Bastos
+    * @group            : 
+    * @created          : 06/09/2023 - 15:14:04
+    * 
+    * MODIFICATION LOG
+    * - Version         : 1.0.0
+    * - Date            : 06/09/2023
+    * - Author          : Thiago Bastos
+    * - Modification    : 
+**/
 const pokemonList = document.getElementById('pokemonList')
 const loadMoreButton = document.getElementById('loadMoreButton')
 
